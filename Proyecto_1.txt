@@ -1,0 +1,33 @@
+Proyecto 1: Análisis Multivariado y Supervivencia en Salud Pública
+
+Enfoque: Análisis Inteligente de Datos (AID)
+Tipo de problema: Exploración multivariada, reducción de dimensionalidad y análisis de tiempo hasta evento.
+Dataset sugerido: Heart Failure Clinical Data (UCI / Kaggle).
+
+Objetivo del proyecto
+
+Explorar la estructura multivariada del dataset, identificar perfiles de riesgo y analizar el tiempo hasta un evento utilizando técnicas adecuadas, justificando por qué ciertos enfoques son más apropiados que modelos clásicos.
+
+Checklist de tareas
+
+Análisis Exploratorio Robusto (R)
+Implementar una función de detección de outliers basada en distancia de Mahalanobis y compararla con el método IQR. Analizar diferencias en sensibilidad y supuestos.
+
+Perfilado Multivariado
+Generar gráficos de coordenadas paralelas y scatter plots condicionados por la variable de supervivencia para evaluar separabilidad entre perfiles.
+
+Reducción de Dimensión (PCA)
+Aplicar PCA sobre la matriz de correlación. Justificar esta elección frente a la matriz de covarianza.
+Interpretar el scree plot y el biplot, analizando los loadings como variables dominantes.
+
+Análisis de Correspondencias (CA)
+Si existen variables categóricas relevantes (sexo, hábito de fumar, etc.), aplicar CA para visualizar asociaciones entre categorías y riesgo.
+
+Análisis de Supervivencia
+Implementar curvas de Kaplan–Meier y comparar conceptualmente este enfoque con una regresión lineal para la estimación de días hasta el evento.
+
+Indicaciones para Colab
+
+Usar entorno R en Google Colab
+
+Librerías sugeridas: ggplot2, factoextra, survival, GGally
