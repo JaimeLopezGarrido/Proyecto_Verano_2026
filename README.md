@@ -12,6 +12,8 @@ Este proyecto también representa un paso importante en mi objetivo personal de 
 
 El repositorio está organizado en distintos proyectos, alineados con las materias cursadas, y se irá ampliando de forma incremental a lo largo del verano, sirviendo como base para desarrollos más avanzados durante el segundo año de la maestría.
 
+Las consignas originales del proyecto se encuentran en la carpeta consignas/.
+
 Los proyectos están organizados en tres grandes ejes:
 
 - Análisis Inteligente de Datos: exploración multivariada, reducción de dimensionalidad, detección de outliers y análisis de supervivencia.
