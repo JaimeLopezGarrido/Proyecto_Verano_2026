@@ -1,6 +1,6 @@
-Proyecto Verano 2026 · Ciencia de Datos
+Proyecto Verano 2026 · Ciencia de Datos · Jaime Lopez Garrido
 
-Este repositorio corresponde al Proyecto de Verano 2026 – Nivel 1, desarrollado como parte de un plan de estudio práctico para consolidar y profundizar los contenidos vistos durante el primer año de la Maestría en Ciencia de Datos.
+Este repositorio corresponde al Proyecto de Verano 2026 – Nivel 1, desarrollado como parte de un plan de estudio práctico personal para consolidar y profundizar los contenidos vistos durante el primer año de la Maestría en Ciencia de Datos de la Universidad Austral.
 
 El objetivo principal del proyecto es transformar conceptos teóricos y trabajos prácticos académicos en implementaciones técnicas reproducibles, utilizando datasets reales y herramientas estándar de la industria, con foco en el criterio de modelado, la validación y la interpretación de resultados.
 
