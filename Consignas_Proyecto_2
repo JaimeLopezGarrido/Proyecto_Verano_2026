@@ -1,0 +1,40 @@
+Proyecto 2: Pipeline Predictivo y Optimización de Clasificadores
+
+Enfoque: Data Mining Avanzado
+Tipo de problema: Clasificación multiclase con optimización y validación robusta.
+Dataset sugerido: Obesity Levels Based on Eating Habits (UCI) o Dry Bean Dataset.
+
+Objetivo del proyecto
+
+Construir un pipeline completo de Machine Learning que permita comparar modelos avanzados, analizar sesgo-varianza y justificar decisiones de preprocesamiento y modelado.
+
+Checklist de tareas
+
+Ingeniería de Features y Preprocesamiento
+Construir un pipeline con:
+
+escalado de variables numéricas,
+
+codificación de variables categóricas,
+
+técnicas de balanceo de clases (si aplica).
+
+Comparación de Modelos de Ensamble
+Entrenar y comparar Random Forest y Gradient Boosting.
+Analizar cuál maneja mejor el sesgo y la varianza en el dataset elegido.
+
+SVM y Kernel Trick
+Implementar SVM con distintos kernels (RBF, polinomial).
+Diseñar una estrategia basada en validación cruzada para seleccionar el kernel adecuado.
+
+Optimización Sistemática
+Definir explícitamente el espacio de búsqueda de hiperparámetros y aplicar GridSearchCV o RandomizedSearchCV con k-fold cross-validation.
+
+Interpretabilidad
+Analizar feature importance en modelos basados en árboles y comparar con coeficientes de un modelo base lineal.
+
+Indicaciones para Colab
+
+Entorno: Python 3
+
+Librerías sugeridas: scikit-learn, pandas, matplotlib, XGBoost o LightGBM
