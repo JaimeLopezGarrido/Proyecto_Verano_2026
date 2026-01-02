@@ -2,7 +2,7 @@ Proyecto 1: Análisis Multivariado y Supervivencia en Salud Pública
 
 Enfoque: Análisis Inteligente de Datos (AID)
 Tipo de problema: Exploración multivariada, reducción de dimensionalidad y análisis de tiempo hasta evento.
-Dataset sugerido: Heart Failure Clinical Data (UCI / Kaggle).
+Dataset: Heart Failure Clinical Data (UCI / Kaggle).
 
 Objetivo del proyecto
 
